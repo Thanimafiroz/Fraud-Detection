@@ -8,4 +8,4 @@ Credit card fraud is a wide-ranging term for theft and fraud committed using or 
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, in which the proportion of the fraud transactions is only 0.172%. It contains 30 independent variables including 2 numerical features, ‘Time’ and ‘Amount’, and 28 principal components obtained with PCA. Feature 'Time' is a timestamp, which means the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, and this feature can be used for example-dependent cost-sensitive learning. Feature class is the response variable and it takes value 1 for fraud transactions and 0 for normal ones. Finally, 29 independent variables and one dependent variable are included in our research.
 
-Data: https://www.kaggle.com/datasets/mlgulb/creditcardfrau
+Data: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
